@@ -1,5 +1,4 @@
 <div align="center">
-
   <img src="https://user-images.githubusercontent.com/86778388/205303614-88ade5ae-47bf-412a-944d-be2fc6667594.png" alt="logo" width="100"  height="auto" />
   <br/>
   <h3><b>Microverse README Template</b></h3>
