@@ -1,11 +1,10 @@
 import './App.css';
+import Greeting from './component/Greeting';
 
-function App() {
+const App=()=> {  
   return (
     <div className="App">
-      <header className="App-header">
-      <h1>{greeting}</h1>
-      </header>
+       <Greeting/>
     </div>
   );
 }
